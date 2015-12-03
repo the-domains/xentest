@@ -1,0 +1,28 @@
+name: xentest
+favicon: null
+layout_spectrum: 0.035392766585573554
+typography_spectrum: 0.7399249970912933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.45729623758234084
+  lightness: 0.2783420563209802
+  saturation: 0.15339880995452404
+  rhythmicContrast: 0.09380955062806606
+purpose: []
